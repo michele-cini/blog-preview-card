@@ -82,8 +82,7 @@ h2 {
     margin-right: 12px;
 }
 
-h2:hover,
-h2:focus {
+h2:hover {
   color: hsl(47, 88%, 63%);
   cursor: pointer;
 }
