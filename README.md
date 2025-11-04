@@ -6,9 +6,9 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Screenshots
 
-| _Mobile Screenshot (430x812)_                            | _Desktop Screenshot (1440x960)_                            |
-| -------------------------------------------------------- | ---------------------------------------------------------- |
-| ![Mobile](./assets/images/mobile-screenshot_430x812.png) | ![Desktop](.assets/images/desktop-screenshot_1440x960.png) |
+| _Mobile Screenshot (430x812)_                            | _Desktop Screenshot (1440x960)_                             |
+| -------------------------------------------------------- | ----------------------------------------------------------- |
+| ![Mobile](./assets/images/mobile-screenshot_430x812.png) | ![Desktop](./assets/images/desktop-screenshot_1440x960.png) |
 
 ### Live demo
 
